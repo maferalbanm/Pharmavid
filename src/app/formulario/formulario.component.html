@@ -1,0 +1,27 @@
+<br>
+<h1>Calculadora Impuesto a la Renta</h1>
+<div class="content">
+    <form >
+       <table >
+           <tr *ngFor = "let datos of tags">
+               <td>
+                  <b>{{datos["campos"]}} </b> 
+               </td>
+               <td >
+                   <input  type="number" id="{{datos['id']}}" min=0 required>  
+               </td>
+           </tr>
+         <tr>
+           <td>
+               <input class="btn1" type="reset" value="Resetear" (click)="resetear()">
+           </td>
+           <td>
+               <input id="cal" class="btn2" type="submit" value="Sumar" (click)="calcular()">
+           </td>
+       </tr>
+       </table>
+    </form>
+   
+   <br>
+   <div id ="respuesta"> </div>
+   </div>

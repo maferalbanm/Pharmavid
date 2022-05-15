@@ -1,0 +1,30 @@
+[
+    {
+      "id": 1,
+      "nombre": "Paracetamol ",
+      "descripcion": "Analgésico y antipirético, inhibidor de la síntesis de prostaglandinas periférica y central por acción sobre la ciclooxigenasa. Bloquea la generación del impulso doloroso a nivel periférico.",
+      "precio": "$ 4,25",
+      "url": "https://storage.ning.com/topology/rest/1.0/file/get/9242307268?profile=original"
+    },
+    {
+      "id": 2,
+      "nombre": "Ibuprofeno ",
+      "descripcion": "Se utiliza para reducir la fiebre y aliviar los dolores menores por de cefalea, dolor muscular, artritis, periodos menstruales, resfriado común, dolor de muelas y dolor de espalda. ",
+      "precio": "$ 5,34",
+      "url": "https://www.laboratoriochile.cl/wp-content//uploads/2019/03/Ibuprofeno_600MG_20C_BE_HD.jpg"
+    },
+    {
+      "id": 3,
+      "nombre": "Amoxicilina ",
+      "descripcion": "Se usa para tratar ciertas infecciones causadas por bacterias, como la neumonía, la bronquitis (infección de las vías respiratorias que van a los pulmones) y las infecciones de los oídos, la nariz, la garganta, las vías urinarias y la piel.",
+      "precio": "$ 2,86",
+      "url": "https://quefarmacia.com/wp-content/uploads/2017/03/7503006569524_1-1.jpg"
+    },
+    {
+      "id": 4,
+      "nombre": "Plaquinol",
+      "descripcion": "Profilaxis y tratamiento crónico del asma, incluyendo prevención de los síntomas durante el día y la noche; rinitis alérgica estacional en adultos y niños mayores de 2 años. Broncoespasmo inducido por ejercicio. Pacientes alérgicos a la aspirina.",
+      "precio": "$ 17,40",
+      "url": "https://colsubsidio.vteximg.com.br/arquivos/ids/160957-1200-1200/7706263003835.jpg"
+    }
+  ]

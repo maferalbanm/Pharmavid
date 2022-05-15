@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans+Condensed:ital,wght@1,500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,200;1,400&display=swap');
+
+#index ul{
+	list-style:none;
+	margin:0;
+	padding:0;
+}
+
+#index ul li{
+	float:left;
+}
+
+#index a{
+	color: white;
+	display:block;
+	padding: 20px 26px;
+	font-family:helvetica;
+	font-size:19px;
+    text-decoration: none;
+}
+
+#index{
+    background: -moz-linear-gradient(top,  #b4ddb4 0%, #83c783 17%, #52b152 33%, #008a00 67%, #087508 83%, #0d6e0d 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top,  #b4ddb4 0%,#83c783 17%,#52b152 33%,#008a00 67%,#087508 83%,#0d6e0d 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom,  #b4ddb4 0%,#83c783 17%,#52b152 33%,#008a00 67%,#087508 83%,#0d6e0d 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b4ddb4', endColorstr='#002400',GradientType=0 ); /* IE6-9 */
+	width: 55%;
+	height:54px;
+    border-radius: 10px;
+	margin-left: 325px;
+}
+
+#index a:hover{
+	color:black;
+    background: -moz-linear-gradient(top,  rgba(255,255,255,1) 0%, rgba(255,255,255,0) 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top,  rgba(255,255,255,1) 0%,rgba(255,255,255,0) 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom,  rgba(255,255,255,1) 0%,rgba(255,255,255,0) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#00ffffff',GradientType=0 ); /* IE6-9 */
+    font-family:arial black;
+	border-radius: 15px;
+	font-size:16px;
+	animation:1s anima 1;
+}
+
+@keyframes anima
+{
+	0%{
+		opacity:0;
+		transform:scale(1);
+	}
+}
+
+.barrita
+{
+	color:white;
+	padding: 19px;
+}
+
+.imglogo{
+    width: 30%;
+    margin-left: 37%;
+}
+

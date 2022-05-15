@@ -1,0 +1,32 @@
+div{
+    background-color: rgb(241, 204, 155);
+    margin: auto;
+    width: 100%;
+    max-width: 500px;
+    padding: 4.5em 3em;
+    border-radius: 15px;
+    box-shadow: 0 5px 10px -5px rgb(0, 0, 0/30%);
+
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{
+    text-align: center;
+    color: blue;
+    font-weight: 800;
+    font-size: 40px;
+}
+
+.btn1{
+    color: rgb(16, 16, 116);
+    background-color: rgb(198, 230, 240);
+    margin-left: 90px;
+    margin-top: 10px;
+}
+
+.btn2{
+    color: rgb(11, 68, 30);
+    background-color: rgb(160, 224, 171);
+    margin-left: 30px;
+    margin-top: 10px;
+}

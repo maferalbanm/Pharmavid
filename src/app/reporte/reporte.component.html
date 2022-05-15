@@ -1,0 +1,12 @@
+<br>
+<div *ngFor = "let datos of users" style="width: 60px;">
+  <br>
+  <h3>{{datos.nombre}}</h3>
+  <img src="{{datos['url']}}" alt="Card image cap" style="width: 260px;">
+  <br>
+  <p class="desc"> {{datos.descripcion}}  </p>
+  <br>
+  <br>
+  <p class="precio"><b>Precio: </b>{{datos.precio}} </p>
+</div>
+

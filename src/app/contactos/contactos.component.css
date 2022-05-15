@@ -1,0 +1,51 @@
+.redes{
+    margin-left: 31%;
+    width: 40%;
+}
+
+p{
+    margin-left: 320px;
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.ico{
+    width:5%;
+    margin-left: 480px;
+}
+.ico2{
+    width:4.5%;
+    margin-left: 60px;
+}
+.ico3{
+    width:5.3%;
+    margin-left: 60px;
+}
+
+.text{
+    margin-left: 465px;
+    font-size: 15px;
+    font-weight: 500;
+}
+.text2{
+    margin-top: -39px;
+    margin-left: 585px;
+    font-size: 15px;
+    font-weight: 500;
+    position: absolute;
+}
+.text3{
+    margin-top: -39px;
+    margin-left: 720px;
+    font-size: 15px;
+    font-weight: 500;
+    position: absolute;
+}
+.text4{
+    margin-top: -39px;
+    margin-left: 840px;
+    font-size: 15px;
+    font-weight: 500;
+    position: absolute;
+}
